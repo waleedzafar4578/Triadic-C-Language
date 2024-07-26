@@ -2,6 +2,7 @@
 #include "TableRow.h"
 #include <vector>
 #include <fstream>
+//these are for c++ tables
 class TTable
 {
 
