@@ -1,0 +1,378 @@
+Use plus1 for encode
+Use sub1 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 1
+After encode:
+d 84
+e 84
+c 76
+d 70
+c 84
+Using Sub 1
+After decode:
+a 84
+b 84
+c 76
+d 70
+z 84
+
+Use plus1 for encode
+Use sub2 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 1
+After encode:
+d 84
+e 84
+c 76
+d 70
+c 84
+Using Sub 2
+After decode:
+a 84
+b 84
+c 76
+d 70
+z 84
+
+Use plus1 for encode
+Use sub3 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 1
+After encode:
+d 84
+e 84
+c 76
+d 70
+c 84
+Using Sub 3
+After decode:
+a 84
+b 84
+z 76
+d 70
+z 84
+
+Use plus1 for encode
+Use sub4 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 1
+After encode:
+d 84
+e 84
+c 76
+d 70
+c 84
+Using Sub 4
+After decode:
+a 84
+b 84
+z 76
+d 70
+z 84
+
+Use plus2 for encode
+Use sub1 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 2
+After encode:
+d 84
+e 84
+c 76
+d 70
+c 84
+Using Sub 1
+After decode:
+a 84
+b 84
+c 76
+d 70
+z 84
+
+
+Use plus2 for encode
+Use sub2 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 2
+After encode:
+d 84
+e 84
+c 76
+d 70
+c 84
+Using Sub 2
+After decode:
+a 84
+b 84
+c 76
+d 70
+z 84
+
+
+Use plus2 for encode
+Use sub3 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 2
+After encode:
+d 84
+e 84
+c 76
+d 70
+c 84
+Using Sub 3
+After decode:
+a 84
+b 84
+z 76
+d 70
+z 84
+
+
+Use plus2 for encode
+Use sub4 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 2
+After encode:
+d 84
+e 84
+c 76
+d 70
+c 84
+Using Sub 4
+After decode:
+a 84
+b 84
+z 76
+d 70
+z 84
+
+Use plus3 for encode
+Use sub1 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 3
+After encode:
+d 84
+e 84
+f 76
+d 70
+c 84
+Using Sub 1
+After decode:
+a 84
+b 84
+f 76
+d 70
+z 84
+
+Use plus3 for encode
+Use sub2 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 3
+After encode:
+d 84
+e 84
+f 76
+d 70
+c 84
+Using Sub 2
+After decode:
+a 84
+b 84
+f 76
+d 70
+z 84
+
+
+Use plus3 for encode
+Use sub3 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 3
+After encode:
+d 84
+e 84
+f 76
+d 70
+c 84
+Using Sub 3
+After decode:
+a 84
+b 84
+c 76
+d 70
+z 84
+
+Use plus3 for encode
+Use sub4 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 3
+After encode:
+d 84
+e 84
+f 76
+d 70
+c 84
+Using Sub 4
+After decode:
+a 84
+b 84
+c 76
+d 70
+z 84
+
+
+
+
+
+Use plus4 for encode
+Use sub1 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 4
+After encode:
+d 84
+e 84
+f 76
+d 70
+c 84
+Using Sub 1
+After decode:
+a 84
+b 84
+f 76
+d 70
+z 84
+
+
+Use plus4 for encode
+Use sub2 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 4
+After encode:
+d 84
+e 84
+f 76
+d 70
+c 84
+Using Sub 2
+After decode:
+a 84
+b 84
+f 76
+d 70
+z 84
+
+Use plus4 for encode
+Use sub3 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 4
+After encode:
+d 84
+e 84
+f 76
+d 70
+c 84
+Using Sub 3
+After decode:
+a 84
+b 84
+c 76
+d 70
+z 84
+
+
+
+Use plus4 for encode
+Use sub4 for decode
+String
+a 84
+b 84
+c 76
+d 70
+z 84
+Using Plus 4
+After encode:
+d 84
+e 84
+f 76
+d 70
+c 84
+Using Sub 4
+After decode:
+a 84
+b 84
+c 76
+d 70
+z 84

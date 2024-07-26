@@ -1,0 +1,9 @@
+7
+6
+Name	Age	Date	Month	Year	Star	Color	
+Name	Age	Date	Month	Year	Star	Color	
+Name	Age	Date	Month	Year	Star	Color	
+Name	Age	Date	Month	Year	Star	Color	
+Name	Age	Date	Month	Year	Star	Color	
+Name	Age	Date	Month	Year	Star	Color	
+Name	Age	Date	Month	Year	Star	Color	

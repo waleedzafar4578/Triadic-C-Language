@@ -1,0 +1,167 @@
+Version 2
+DATA:
+value:0011
+Degree:TLTT
+KEY:
+value:1001
+Degree:TTLL
+Encoding with e1....
+After Encode:
+DATA:
+value:1000
+Degree:TLLL
+Decoding with d1....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e1....
+After Encode:
+DATA:
+value:1000
+Degree:TLLL
+Decoding with d2....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e1....
+After Encode:
+DATA:
+value:1000
+Degree:TLLL
+Decoding with d3....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e1....
+After Encode:
+DATA:
+value:1000
+Degree:TLLL
+Decoding with d4....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e2....
+After Encode:
+DATA:
+value:1000
+Degree:TLLL
+Decoding with d1....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e2....
+After Encode:
+DATA:
+value:1000
+Degree:TLLL
+Decoding with d2....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e2....
+After Encode:
+DATA:
+value:1000
+Degree:TLLL
+Decoding with d3....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e2....
+After Encode:
+DATA:
+value:1000
+Degree:TLLL
+Decoding with d4....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e3....
+After Encode:
+DATA:
+value:1000
+Degree:TLLT
+Decoding with d1....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e3....
+After Encode:
+DATA:
+value:1000
+Degree:TLLT
+Decoding with d2....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e3....
+After Encode:
+DATA:
+value:1000
+Degree:TLLT
+Decoding with d3....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e3....
+After Encode:
+DATA:
+value:1000
+Degree:TLLT
+Decoding with d4....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e4....
+After Encode:
+DATA:
+value:1000
+Degree:TLLT
+Decoding with d1....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e4....
+After Encode:
+DATA:
+value:1000
+Degree:TLLT
+Decoding with d2....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e4....
+After Encode:
+DATA:
+value:1000
+Degree:TLLT
+Decoding with d3....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
+Encoding with e4....
+After Encode:
+DATA:
+value:1000
+Degree:TLLT
+Decoding with d4....
+After Decode:
+DATA:
+value:0011
+Degree:TLTT
